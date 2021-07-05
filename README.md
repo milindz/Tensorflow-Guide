@@ -1,2 +1,3 @@
 # Tensorflow-Guide
-The notebook is for the  particular Tensor flow library with lots of code and text annotations.
+The notebook is dedicated for the Tensor flow library it consists of lots of code and text annotations.
+
